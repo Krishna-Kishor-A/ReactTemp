@@ -1,0 +1,28 @@
+body {
+  overflow: hidden;
+}
+
+
+.loginWrapper {
+  display: flex;
+  background-color: #f7f9fa;
+
+  .loginLeft {
+    height: 100vh;
+    background: url("../../assets/images/login.jpg") no-repeat center /
+      cover;
+
+  }
+  .loginRight {
+    .logo {
+      height: 80px;
+      background: url("../../assets/images/logo.png") no-repeat center /
+      cover;
+      width: 58%;
+      margin: auto;
+      margin-top: 153px;
+      margin-bottom: 40px;
+    }
+  }
+  
+}
